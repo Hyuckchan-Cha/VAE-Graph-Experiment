@@ -1,4 +1,4 @@
-# VAE-Graph-IRT-Experiment
+# VAE-graph-experiment
 
 A simulation experiment on what happens when an item response model defines the latent trait **θ explicitly** (estimated per person by a VAE encoder) while also estimating a **graph S of direct item-to-item effects**.
 
